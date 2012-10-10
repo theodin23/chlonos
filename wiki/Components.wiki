@@ -1,13 +1,19 @@
-#summary Hardware components to create Chlonos
+#summary List of hardware components to create Chlonos
 
 = Introduction =
 
-Add your content here.
+The following components are all that are required to build your own Chlonos.
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * 1 x *Arduino Uno*
+  * 1 x *LoL Shield* - best if you get one of these pre-assembled to save you 5 hours of soldering! I got mine [http://stores.ebay.co.uk/olimex here]
+  * 1 x *Speakjet Speech Synthesiser chip*
+  * 1 x LM386 Audio Amplifier chip
+  * 1 x 8ohm 0.3W speaker
+  * 1 x N55AY light dependent resistor
+  * 1 x DS1307 Realtime Clock chip
+  * 1 x IN914 signal diode
+  * 1 x LM35 celsius temperature sensor
+  * Some single strand signal wire
