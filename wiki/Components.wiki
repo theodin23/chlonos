@@ -18,3 +18,5 @@ The following components are all that are required to build your own Chlonos. Al
   * 1 x *Arduino Protoshield* - acts as a project board that plugs directly into the Arduino. Very handy. I got [http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=320870180117&ssPageName=ADME:L:OC:GB:3160 this] one.
   * 1 x *LM35* celsius temperature sensor
   * Some single strand signal wire
+  * 1 x *9volt 2.1mm power supply*
+  * 1 x *white enclosure" - For some reason they produce the LoL Shield with clear directional LEDs, not diffuse ones. An enclosure with semi-opaque white covering will disperse the light nicely. Alternatively, a blank sheet of paper over the LEDs will work too.
