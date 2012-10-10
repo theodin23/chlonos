@@ -19,4 +19,4 @@ The following components are all that are required to build your own Chlonos. Al
   * 1 x *LM35* celsius temperature sensor
   * Some single strand signal wire
   * 1 x *9volt 2.1mm power supply*
-  * 1 x *white enclosure" - For some reason they produce the LoL Shield with clear directional LEDs, not diffuse ones. An enclosure with semi-opaque white covering will disperse the light nicely. Alternatively, a blank sheet of paper over the LEDs will work too.
+  * 1 x *white enclosure* - For some reason they produce the LoL Shield with clear directional LEDs, not diffuse ones. An enclosure with semi-opaque white covering will disperse the light nicely. Alternatively, a blank sheet of paper over the LEDs will work too.
