@@ -1,5 +1,8 @@
 #summary List of hardware components to create Chlonos
 
+
+On 3rd May 2014 a set of detailed instructions were added.  See the link on the home page.  There were a few minor components omitted such as resistors and capacitors.  So check there for a complete list.
+
 = Introduction =
 
 The following components are all that are required to build your own Chlonos. Altogether around £40.
